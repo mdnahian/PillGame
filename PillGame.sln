@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{22367F71-E047-5F55-F706-9FE6FA1FB5F1}") = "PillGame", "Assembly-CSharp.csproj", "{931C525A-2F64-3299-ECB0-88601BB7D252}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{931C525A-2F64-3299-ECB0-88601BB7D252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{931C525A-2F64-3299-ECB0-88601BB7D252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{931C525A-2F64-3299-ECB0-88601BB7D252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{931C525A-2F64-3299-ECB0-88601BB7D252}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
